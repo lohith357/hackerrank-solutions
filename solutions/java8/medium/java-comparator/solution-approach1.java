@@ -6,7 +6,7 @@
 // Platform    HackerRank
 // Language    java8
 // Status      Accepted
-// Submitted   2026-08-22, 09:30 a.m.
+// Submitted   2026-08-22, 09:34 a.m.
 // ──────────────────────────────────────────────────
 
 
